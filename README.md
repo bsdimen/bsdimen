@@ -2,7 +2,7 @@
 
 ## Front-End Developer | UX Enthusiast | Web Performance Advocate
 
-![Profile Banner](https://github.com/yourusername/your-repo/banner-image.png)
+![Profile Banner](https://github.com/bsdimen/bsdimen/banner-image.png)
 
 ---
 
@@ -24,7 +24,7 @@
 
 I'm a passionate front-end developer with a strong focus on creating accessible, responsive, and user-friendly web applications. I enjoy working with modern JavaScript frameworks like React, and I have a keen eye for design and performance optimization. I'm always eager to learn new technologies and improve my skills.
 
-- 🔭 I’m currently working on: [ProdutivityApp](https://github.com/bsdimen/Productivity-dashboard), [EarthGuardians Website](https://github.com/bsdimen/EarthGuardians)
+- 🔭 I’m currently working on: [WOORKIE: Productivity App](https://github.com/bsdimen/Productivity-dashboard), [EarthGuardians Website](https://github.com/bsdimen/EarthGuardians)
 - 🌱 I’m learning: Advanced React patterns, TypeScript, and performance tuning.
 - 👯 I’m looking to collaborate on: Exciting projects that solve real-world problems.
 - 💬 Ask me about: Front-end development, UI/UX design, React, Framer Motion, and web performance.
@@ -38,17 +38,15 @@ I'm a passionate front-end developer with a strong focus on creating accessible,
 
 ---
 
-## 📌 Featured Projects
+### [WOORKIE: Productivity App](https://github.com/yourusername/woorkie)
+- Description: A productivity app to manage tasks and improve efficiency.
+- Tech Stack: React, TypeScript, SCSS, Axios, JSON Server, Framer Motion
+- Key Features: Task management, smooth animations, and real-time updates using React Query.
 
-### [Project Name 1](https://github.com/yourusername/project1)
-- Description: A brief description of the project.
-- Tech Stack: React, SCSS, Axios, Framer Motion
-- Key Features: Responsive layout, API integration, and animations using Framer Motion.
-
-### [Project Name 2](https://github.com/yourusername/project2)
-- Description: A brief description of the project.
-- Tech Stack: TypeScript, HTML5, CSS Grid, Framer Motion
-- Key Features: Dynamic content generation, smooth animations with Framer Motion, optimized for performance and accessibility.
+### [Earth Guardians Website](https://github.com/yourusername/earth-guardians)
+- Description: An educational platform focusing on environmental awareness and activism.
+- Tech Stack: React, SCSS, Framer Motion
+- Key Features: Responsive design, blog section, and animated elements for interactive user experience.
 
 ---
 
