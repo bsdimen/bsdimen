@@ -52,5 +52,5 @@ I'm a passionate front-end developer with a strong focus on creating accessible,
 
 ## 🚀 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/imen-bousaid-616944179/))
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imen-bousaid-616944179/)
 - Portfolio: comming soon 🤫
