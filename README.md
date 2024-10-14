@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Imen👋
 
-## Front-End Developer | UX Enthusiast | Web Performance Advocate
+## Front-End Developer | REACT | UX Enthusiast | Web Performance Advocate
 
 ![Profile Banner](https://github.com/bsdimen/bsdimen/banner-image.png)
 
@@ -52,5 +52,5 @@ I'm a passionate front-end developer with a strong focus on creating accessible,
 
 ## 🚀 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/imen-bousaid-616944179/))
+- Portfolio: comming soon 🤫
