@@ -2,7 +2,6 @@
 
 ## Front-End Developer | REACT | UX Enthusiast | Web Performance Advocate
 
-![Profile Banner](https://github.com/bsdimen/bsdimen/banner-image.png)
 
 ---
 
