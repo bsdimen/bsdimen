@@ -1,7 +1,4 @@
-# Hi, I'm Imen👋
-
-## Front-End Developer | REACT 
-
+## Hi, I'm Imen!
 ---
 
 ##  About Me
