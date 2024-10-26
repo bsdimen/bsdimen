@@ -1,6 +1,6 @@
 # Hi, I'm Imen👋
 
-## Front-End Developer | REACT | UX Enthusiast | Web Performance Advocate
+## Front-End Developer | REACT 
 
 
 ---
@@ -19,21 +19,16 @@
 
 ---
 
-## 📝 About Me
+##  About Me
 
 I'm a passionate front-end developer with a strong focus on creating accessible, responsive, and user-friendly web applications. I enjoy working with modern JavaScript frameworks like React, and I have a keen eye for design and performance optimization. I'm always eager to learn new technologies and improve my skills.
 
-- 🔭 I’m currently working on: [WOORKIE: Productivity App](https://github.com/bsdimen/Productivity-dashboard), [EarthGuardians Website](https://github.com/bsdimen/EarthGuardians)
-- 🌱 I’m learning: Advanced React patterns, TypeScript, and performance tuning.
-- 👯 I’m looking to collaborate on: Exciting projects that solve real-world problems.
-- 💬 Ask me about: Front-end development, UI/UX design, React, Framer Motion, and web performance.
-- 📫 How to reach me: [bousaid.imn@gmail.com](mailto:bousaid.imn@gmail.com])
+ I’m currently working on: [WOORKIE: Productivity App](https://github.com/bsdimen/Productivity-dashboard), [EarthGuardians Website](https://github.com/bsdimen/EarthGuardians)
+- I’m learning: Advanced React patterns, TypeScript, and performance tuning.
+- I’m looking to collaborate on: Exciting projects that solve real-world problems.
+- Ask me about: Front-end development, UI/UX design, React, Framer Motion, and web performance.
+- How to reach me: [bousaid.imn@gmail.com](mailto:bousaid.imn@gmail.com])
 
----
-
-## 🏆 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsdimen&show_icons=true&hide=stars&count_private=true&theme=radical)
 
 ---
 
